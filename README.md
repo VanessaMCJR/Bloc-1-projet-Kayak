@@ -6,8 +6,9 @@ De plus, les recherches sur les utilisateurs montrent que les gens ont tendance 
 
 Par conséquent, Kayak Marketing Team aimerait créer une application qui recommandera où les gens devraient planifier leurs prochaines vacances. L'application doit être basée sur des données réelles concernant :
 
--Temps
--Hôtels dans la région
+*Temps
+
+* Hôtels dans la région
 
 Comme le projet vient de démarrer, votre équipe ne dispose d'aucune donnée pouvant être utilisée pour créer cette application. Ainsi, votre travail consistera à :
 
