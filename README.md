@@ -1,5 +1,11 @@
 # Bloc-1-projet-Kayak
 
+## Lien de l'url du projet: 
+
+https://share.vidyard.com/watch/RbTbfgvNjKt9G76432W2Cd?
+
+
+
 L'équipe marketing a besoin d'aide pour un nouveau projet. Après avoir effectué des recherches auprès des utilisateurs, l'équipe a découvert que 70 % de leurs utilisateurs qui planifient un voyage aimeraient avoir plus d'informations sur la destination vers laquelle ils se rendent .
 
 De plus, les recherches sur les utilisateurs montrent que les gens ont tendance à se méfier des informations qu'ils lisent s'ils ne connaissent pas la marque qui a produit le contenu.
