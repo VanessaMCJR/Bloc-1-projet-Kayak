@@ -24,12 +24,12 @@ Comme le projet vient de démarrer, votre équipe ne dispose d'aucune donnée po
 
 Dans ce projet, on retrouvera: 
 
-* projet_kayak_final.ipynb : code python du projet
+* **projet_kayak_final.ipynb** : code python du projet
 
-* map_best_regions_france_holidays.png : carte plotly qui présente les 5 meilleures villes de france pour les 7 prochains jours pour aller en vacance.
+* **map_best_regions_france_holidays.png** : carte plotly qui présente les 5 meilleures villes de france pour les 7 prochains jours pour aller en vacance.
 
-* map_best_hotels.png : carte plotly qui présente les 20 meilleurs hôtels de chacune des 35 villes.
+* **map_best_hotels.png** : carte plotly qui présente les 20 meilleurs hôtels de chacune des 35 villes.
 
-* hotels_cities_weather.csv : fichier csv qui contient tous les résultats de la récupération des données sur la localisation des villes, leurs données météorologiques, et de leurs hôtels.
+* **hotels_cities_weather.csv** : fichier csv qui contient tous les résultats de la récupération des données sur la localisation des villes, leurs données météorologiques, et de leurs hôtels.
 
 
